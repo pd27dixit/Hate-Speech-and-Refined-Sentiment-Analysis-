@@ -1,0 +1,8 @@
+20CS30069_assignment_2
+
+Task1 and Task3 colab link
+https://colab.research.google.com/drive/1wDKcuH50SZPK4bdA_MDBQE4bZYYhxCP9?usp=sharing
+
+
+Task2 colab link 
+https://colab.research.google.com/drive/181b3DBvP11ti2NpCTPq3yYFOH7gk_yQY?usp=sharing
